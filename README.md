@@ -17,4 +17,4 @@ This web app lets you :
 
 ## Screenshots
 
-<img src="i.imgur.com/089wCm3.gif">
+![](i.imgur.com/089wCm3.gif)
