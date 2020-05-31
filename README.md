@@ -14,3 +14,7 @@ This web app lets you :
 - Have your own gallery.
 - Delete your pictures.
 
+
+## Screenshots
+
+<img src="i.imgur.com/089wCm3.gif">
