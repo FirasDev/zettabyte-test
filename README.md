@@ -17,4 +17,4 @@ This web app lets you :
 
 ## Screenshots
 
-![](i.imgur.com/089wCm3.gif)
+![Alt Text](https://i.imgur.com/089wCm3.gif)
